@@ -1,4 +1,4 @@
-package cl.ucn.disc.dsm.chat;
+package cl.ucn.disc.dsm.chat.model;
 
 import java.time.LocalDateTime;
 
